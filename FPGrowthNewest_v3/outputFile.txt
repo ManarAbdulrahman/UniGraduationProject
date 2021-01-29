@@ -1,0 +1,43 @@
+{I1=6, I2=7, I3=6, I4=2, I5=2}
+{I1=6, I2=7, I3=6, I4=2, I5=2}
+{I1=6, I2=7, I3=6, I4=2, I5=2}
+{I1=6, I2=7, I3=6, I4=2, I5=2}
+{I1=6, I2=7, I3=6, I4=2, I5=2}
+I2
+I1
+I3
+I4
+I5
+null
+the items to be removed because they are not frequent
+I4
+I5
+null
+the frequent items are
+I2
+I1
+I3
+the elements of the header are
+I2
+I1
+I3
+the transactions after ordering based on most frequent items
+I2  I1  
+the transactions after ordering based on most frequent items
+I2  
+the transactions after ordering based on most frequent items
+I2  I3  
+the transactions after ordering based on most frequent items
+I2  I1  
+the transactions after ordering based on most frequent items
+I1  I3  
+the transactions after ordering based on most frequent items
+I2  I3  
+the transactions after ordering based on most frequent items
+I1  I3  
+the transactions after ordering based on most frequent items
+I2  I1  I3  
+the transactions after ordering based on most frequent items
+I2  I1  I3  
+I3 parent = I1 parent = I2 parent = null parent = null count = 0 its children I2 I1  count = 7 its children I1 I3  count = 4 its children I3  count = 2 its children 
+I1 parent = I2 parent = null parent = null count = 0 its children I2 I1  count = 7 its children I1 I3  count = 4 its children I3 
